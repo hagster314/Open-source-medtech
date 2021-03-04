@@ -25,13 +25,15 @@ You likely have the answer to many of these questions in your head and have disc
 
 ## Instructions for how to develop, use, and test the code.
 
+Environment and dependencies: 
+
 This should answer the question: **How do I get this project to work on my machine? How can I develop for this project?** We find it works really well if you follow a two-step approach to develop the content for this section: first, help someone setup the site who has never done it before, and then write down the exact instructions. Next, ask someone to follow those instructions and see if you’ve missed anything.
 
 Important: If relevant code changes, it’s important to test to ensure these instructions continue to work. We also recommend separating the sections for using a project versus developing for it. (More detailed instructions are located [in our guidelines](https://pages.18f.gov/open-source-program/pages/maintainer_guidelines/#usage-documentation) for writing documentation for users, contributors, and developers.)
 
 **Example:** The README for analytics.usa.gov contains detailed instructions for [developing the site](https://github.com/18f/analytics.usa.gov#setup) and [deploying the site](https://github.com/18f/analytics.usa.gov#deploying-to-staging-18f-specific).  
 
-## Instructions for how people can help.
+## How to contribute.
 
 We [explicitly welcome outside contributors](https://github.com/18F/open-source-policy/blob/master/practice.md#accepting-contributions-from-the-public). It’s important to explicitly state how they can help and what they can help with. This part of the website should answer the question: **How can outside contributors become involved?** We include a [CONTRIBUTING.md](https://github.com/18F/open-source-policy/blob/master/CONTRIBUTING.md) file in each repo, which outlines the following:
 
@@ -69,7 +71,9 @@ For example, see ["Licenses and attribution" in the U.S. Web Design Standards RE
 ## Team and contact information.
 
 Main developer: Hågen Toverud
+
 email: t@hagster.no
+
 
 Groups/social media
 
